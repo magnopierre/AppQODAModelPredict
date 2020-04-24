@@ -10,8 +10,8 @@ html, body{
 }
 
 #wrapper {
-	width: 100%;
-	height: 100%;
+	width: 80%;
+	height: 80%;
 }
 #grid {
 	position: absolute;
@@ -24,8 +24,8 @@ html, body{
 #chart {
 	position: fixed;
 	left: 31.5%;
-	top: 20.5%;
-	width: 35%;
+	top: 2.5%;
+	width: 10%;
 	background-color: transparent;
 	z-index: 1;
 }
